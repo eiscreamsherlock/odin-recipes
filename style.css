@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.landing-header {
+    text-align: center;
+}
+
+.recipe {
+    font-family: monospace;
+    font-size: 22px;
+    text-align: center;
+    list-style-position: inside;
+}
+.recipe-list {
+    padding: 20px;
+    margin 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ul .recipe-steps {
+    list-style-type: none;
+}
+
+li {
+    padding: auto;
+}
+
+.recipe-box {
+    padding: 15px;
+    margin: 50px;
+    background-color: palegoldenrod;
+}
